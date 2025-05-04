@@ -19,7 +19,7 @@ This project builds a machine learning model to classify social media usernames 
 - Gradio (for optional UI)
 
 ## 📊 Google Colab Notebook
-👉 [Click here to view and run the notebook](YOUR_COLAB_NOTEBOOK_LINK_HERE)
+👉 [Click here to view and run the notebook] https://colab.research.google.com/drive/1uTK09DFmwwqXlwzN5_lO5bD4fZEak5Ei?usp=sharing
 
 ## 📈 Visualizations
 All key visualizations are stored in the `/visualizations` folder. Examples include:
