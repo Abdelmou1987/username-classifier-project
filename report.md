@@ -161,7 +161,3 @@ report.md, README.md, .gitignore
 ---
 
 **Note**: Due to the nature of usernames, visualizations such as bar plots or heatmaps were omitted. Instead, qualitative review and manual testing formed the core of the exploratory and evaluation phases.
-
-```
-Times New Roman, 12pt, double-spaced formatting recommended for formal submission as PDF.
-```
