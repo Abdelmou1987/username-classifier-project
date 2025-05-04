@@ -21,10 +21,6 @@ This project builds a machine learning model to classify social media usernames 
 ## 📊 Google Colab Notebook
 👉 [Click here to view and run the notebook] https://colab.research.google.com/drive/1uTK09DFmwwqXlwzN5_lO5bD4fZEak5Ei?usp=sharing
 
-## 📈 Visualizations
-All key visualizations are stored in the `/visualizations` folder. Examples include:
-- Label distribution
-- Word cloud of risky usernames
 
 ## 📃 Final Report
 See `report.md` or `report.pdf` in this repository for full methodology, modeling, results, and ethical discussion.
